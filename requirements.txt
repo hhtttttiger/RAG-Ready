@@ -1,0 +1,7 @@
+loguru
+pydantic
+orjson
+langchain-core
+langchain
+langchain-text-splitters
+nltk
